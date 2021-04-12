@@ -1,0 +1,7 @@
+class nana{
+           
+            public static void main(sting[] arges){
+               system.out.println("This is the first programm here");}
+
+
+
